@@ -54,4 +54,4 @@ It works well with both IOS and Android.
 
 ## Contact
 
-> If you have any problem you can contact me at: **atef.najar@icloud.com**
+> If you have any problem you can contact me at: **edmv44@gmail.com**
